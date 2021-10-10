@@ -1,6 +1,6 @@
 {
   "name": "smartinterval",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\"An interval that can be started/stopped and evaluates sequentially\"",
   "main": "index.js",
   "scripts": {
