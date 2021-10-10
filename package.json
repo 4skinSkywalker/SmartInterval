@@ -1,0 +1,19 @@
+{
+  "name": "smartinterval",
+  "version": "1.0.0",
+  "description": "\"An interval that can be started/stopped and evaluates sequentially\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4skinSkywalker/SmartInterval.git"
+  },
+  "author": "Fredo Corleone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4skinSkywalker/SmartInterval/issues"
+  },
+  "homepage": "https://github.com/4skinSkywalker/SmartInterval#readme"
+}

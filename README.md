@@ -11,7 +11,7 @@ SmartInterval creates an interval that has the following features:
 
 ## Install
 
-`npm i [[todo]]`
+`npm i smartinterval`
 
 ## Getting started
 
@@ -20,7 +20,7 @@ Another call of your async job won't be sent until the previous call has been ev
 If you force it you will get an additional immediate call.
 
 ```js
-let SmartInterval = require("[[todo]]");
+let SmartInterval = require("smartinterval");
 
 // Initialize the interval by new-ing the SmartInterval constructor
 // It accepts 2 arguments:
